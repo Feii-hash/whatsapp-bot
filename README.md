@@ -1,16 +1,16 @@
 <div align="center">
 <img src="http://piyobot.000webhostapp.com/822161.png" alt="Piyobot" width="400" />
 
-# Piyobot
+# Lorynn BOT
   
 > I am very very bored, give me a task to update or develop this bot? feature suggestions?
 
 <p align="center">
- Piyobot Adalah Bot Whatsapp Pintar Dengan Fitur Yang Berguna Untuk Grup Maupun Pribadi Message
+ Loryn Adalah Bot Whatsapp Pintar Dengan Fitur Yang Berguna Untuk Grup Maupun Pribadi Message
 </p>
 
 <a href="https://chat.whatsapp.com/IY8OvPk02qxKb1xd0DXtUR" align="center">
-  Nomor Whatsapp Bot
+  6285783492048 
 </a>
 
 <h3 align="center">Made with ❤️ by</h3>
@@ -72,12 +72,12 @@
 Edit value yang diperlukan di `settings/setting.json`.
 ```json
 {
-    "limitCount": 10,
-    "ownerNumber": "",
+    "limitCount": 100,
+    "ownerNumber": "62881012362720",
     "memberLimit": 10,
     "groupLimit": 50,
-    "medialimitCount": "5",
-    "prefix": "/",
+    "medialimitCount": "15",
+    "prefix": "/,.,#",
     "vhtearkey": "Your Apikey In Here",
     "apikeyz": "Your Apikey In Here",
     "lolhuman": "Your Apikey In Here",
@@ -86,9 +86,9 @@ Edit value yang diperlukan di `settings/setting.json`.
 
 ```
 
-`ownerBot`: your WhatsApp number.  
+`ownerBot`: 62881012362720.  
 
-`prefix`: bot's prefix.  
+`prefix`: #,/,-,.  
 
 `vhtearkey`: VHTear API token. Anda bisa mendapatkannya https://api.vhtear.com/ dengan membeli kunci API Nya dan harga 25k Perbulan.
 
@@ -146,7 +146,7 @@ Setelah itu pindai kode QR menggunakan WhatsApp Anda di ponsel Anda!
 | :-------------------: | :----------: |
 | Money Check           |      ✔️      |
 | Buy Limit             |      ✔️      |
-| Transfer Money        |     Soon      |
+| Transfer Money        |      ✔️      |
 
 |      Downloader     | Availability |
 | :-----------------: | :----------: |
